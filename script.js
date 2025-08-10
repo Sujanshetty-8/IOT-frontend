@@ -1,3 +1,4 @@
+// update test
 const browserIdDisplay = document.getElementById('browserIdDisplay');
 const startButton = document.getElementById('startButton');
 const stopButton = document.getElementById('stopButton');
